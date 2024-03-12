@@ -1,0 +1,26 @@
+body{
+    background-color: rgba(232, 234, 220, 0.279);
+}
+input{
+    background-color: rgb(4, 6, 51);
+    border: none;
+    color:rgb(137, 77, 77);
+}
+td, tr{
+     border: 1px solid rgb(252, 249, 249);
+}
+table{
+    border:2px solid;
+}
+td{
+    text-align: center;
+}
+h1{
+    
+    font-size: 30px;
+   
+}
+#id1{
+  
+    background-color: rgb(4, 6, 51);
+}
